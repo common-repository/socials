@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Socials\n"
+"POT-Creation-Date: 2018-11-10 00:11+0100\n"
+"PO-Revision-Date: 2018-11-10 00:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: socials.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/admin-page.php:21 assets/class.php:134
+#: socials/tags/1.0.2/assets/admin-page.php:21
+#: socials/tags/1.0.2/assets/class.php:125
+#: socials/tags/1.2.0/assets/admin-page.php:21
+#: socials/tags/1.2.0/assets/class.php:125
+#: socials/tags/1.2.1/assets/admin-page.php:21
+#: socials/tags/1.2.1/assets/class.php:125
+#: socials/trunk/assets/admin-page.php:21 socials/trunk/assets/class.php:125
+msgid "Social sharing"
+msgstr "Udostępnianie społecznościowe"
+
+#: assets/admin-page.php:45 socials/tags/1.0.2/assets/admin-page.php:45
+#: socials/tags/1.2.0/assets/admin-page.php:45
+#: socials/tags/1.2.1/assets/admin-page.php:45
+#: socials/trunk/assets/admin-page.php:45
+msgid "Facebook page ID"
+msgstr "ID strony na Facebooku"
+
+#: assets/admin-page.php:48 socials/tags/1.0.2/assets/admin-page.php:48
+#: socials/tags/1.2.0/assets/admin-page.php:48
+#: socials/tags/1.2.1/assets/admin-page.php:48
+#: socials/trunk/assets/admin-page.php:48
+msgid "Facebook page token"
+msgstr "Token strony na Facebooku"
+
+#: assets/admin-page.php:58 socials/tags/1.0.2/assets/admin-page.php:58
+#: socials/tags/1.2.0/assets/admin-page.php:58
+#: socials/tags/1.2.1/assets/admin-page.php:58
+#: socials/trunk/assets/admin-page.php:58
+msgid "Attach the first ten tags to the published post"
+msgstr "Załącz pierwsze dziesięć znaczników do opublikowanego wpisu"
+
+#: assets/admin-page.php:69 socials/tags/1.0.2/assets/admin-page.php:69
+#: socials/tags/1.2.0/assets/admin-page.php:69
+#: socials/tags/1.2.1/assets/admin-page.php:69
+#: socials/trunk/assets/admin-page.php:69
+msgid "Attach the page URL to the published post"
+msgstr "Załącz adres URL do opublikowanego wpisu"
+
+#: assets/admin-page.php:75 socials/tags/1.0.2/assets/admin-page.php:75
+#: socials/tags/1.2.0/assets/admin-page.php:75
+#: socials/tags/1.2.1/assets/admin-page.php:75
+#: socials/trunk/assets/admin-page.php:75
+msgid "Save changes"
+msgstr "Zapisz zmiany"
+
+#: assets/admin-page.php:81 socials/tags/1.0.2/assets/admin-page.php:81
+#: socials/tags/1.2.0/assets/admin-page.php:81
+#: socials/tags/1.2.1/assets/admin-page.php:81
+#: socials/trunk/assets/admin-page.php:81
+msgid "Try publish test post"
+msgstr "Opublikuj testowy wpis"
+
+#: assets/admin-page.php:83 socials/tags/1.0.2/assets/admin-page.php:83
+#: socials/tags/1.2.0/assets/admin-page.php:83
+#: socials/tags/1.2.1/assets/admin-page.php:83
+#: socials/trunk/assets/admin-page.php:83
+msgid "Get permanent token"
+msgstr "Uzyskaj permanentny token"
+
+#: assets/admin-page.php:87 socials/tags/1.0.2/assets/admin-page.php:87
+#: socials/tags/1.2.0/assets/admin-page.php:87
+#: socials/tags/1.2.1/assets/admin-page.php:87
+#: socials/trunk/assets/admin-page.php:87
+msgid "My Facebook pages"
+msgstr "Moje strony na Facebooku"
+
+#: assets/admin-page.php:88 socials/tags/1.0.2/assets/admin-page.php:88
+#: socials/tags/1.2.0/assets/admin-page.php:88
+#: socials/tags/1.2.1/assets/admin-page.php:88
+#: socials/trunk/assets/admin-page.php:88
+msgid "Facebook Apps Dashboard"
+msgstr "Kokpit aplikacji Facebook"
+
+#: assets/admin-page.php:89 socials/tags/1.0.2/assets/admin-page.php:89
+#: socials/tags/1.2.0/assets/admin-page.php:89
+#: socials/tags/1.2.1/assets/admin-page.php:89
+#: socials/trunk/assets/admin-page.php:89
+msgid "Graph API Explorer"
+msgstr "Eksplorator Graph API"
+
+#: assets/admin-page.php:96 socials/tags/1.0.2/assets/admin-page.php:96
+#: socials/tags/1.2.0/assets/admin-page.php:96
+#: socials/tags/1.2.1/assets/admin-page.php:96
+#: socials/trunk/assets/admin-page.php:96
+msgid "Where can I find my token"
+msgstr "Gdzie mogę znaleźć mój token"
+
+#: assets/admin-page.php:98 socials/tags/1.2.0/assets/admin-page.php:98
+#: socials/tags/1.2.1/assets/admin-page.php:98
+#: socials/trunk/assets/admin-page.php:98
+msgid "Open Graph Api Explorer"
+msgstr "Otwórz eksplorator Graph API"
+
+#: assets/admin-page.php:99 socials/tags/1.2.0/assets/admin-page.php:99
+#: socials/tags/1.2.1/assets/admin-page.php:99
+#: socials/trunk/assets/admin-page.php:99
+msgid "Choose your application in the upper right corner"
+msgstr "Wybierz aplikację w prawym górnym rogu"
+
+#: assets/admin-page.php:100 socials/tags/1.2.0/assets/admin-page.php:100
+#: socials/tags/1.2.1/assets/admin-page.php:100
+#: socials/trunk/assets/admin-page.php:100
+msgid ""
+"From the \"Get Token\" button, select your fanpage from the \"Page Access "
+"Token\" list"
+msgstr ""
+"Z przycisku \"Get Token\", wybierz swój fanpage z listy \"Page Access Token\""
+
+#: assets/admin-page.php:101 socials/tags/1.2.0/assets/admin-page.php:101
+#: socials/tags/1.2.1/assets/admin-page.php:101
+#: socials/trunk/assets/admin-page.php:101
+msgid "Paste your token in Social Sharing settings and save changes"
+msgstr ""
+"Wklej token w ustawieniach Udostępniania Społecznościowego i zapisz zmiany"
+
+#: assets/admin-page.php:102 socials/tags/1.2.0/assets/admin-page.php:102
+#: socials/tags/1.2.1/assets/admin-page.php:102
+#: socials/trunk/assets/admin-page.php:102
+msgid "Click the \"Get temporary token\" button"
+msgstr "Kliknij przycisk \"Get temporary token\""
+
+#: assets/class.php:79 socials/tags/1.0.2/assets/class.php:79
+#: socials/tags/1.2.0/assets/class.php:79
+#: socials/tags/1.2.1/assets/class.php:79 socials/trunk/assets/class.php:79
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: assets/class.php:84 socials/tags/1.0.2/assets/class.php:84
+#: socials/tags/1.2.0/assets/class.php:84
+#: socials/tags/1.2.1/assets/class.php:84 socials/trunk/assets/class.php:84
+msgid "Leave us a rating"
+msgstr "Zostaw nam ocenę"
+
+#: assets/class.php:84 socials/tags/1.0.2/assets/class.php:84
+#: socials/tags/1.2.0/assets/class.php:84
+#: socials/tags/1.2.1/assets/class.php:84 socials/trunk/assets/class.php:84
+msgid "Thank you"
+msgstr "Dziękujemy"
+
+#: assets/class.php:144 socials/tags/1.0.2/assets/class.php:146
+#: socials/tags/1.2.0/assets/class.php:146
+#: socials/tags/1.2.1/assets/class.php:146 socials/trunk/assets/class.php:146
+msgid "Share"
+msgstr "Udostępnij"
+
+#: assets/meta-html.php:21
+msgid "Publishing a post on facebook"
+msgstr "Publikowanie wpisu na facebook'u"
+
+#: assets/meta-html.php:25
+msgid "Something went wrong"
+msgstr "Coś poszło nie tak"
+
+#: assets/meta-html.php:26
+msgid "An unknown error has occurred"
+msgstr "Pojawił się nieznany błąd"
+
+#: assets/meta-html.php:30
+msgid "Success"
+msgstr "Sukces"
+
+#: assets/meta-html.php:31
+msgid "The post has been properly published on Facebook"
+msgstr "Wpis został pomyślnie opublikowany na Facebook'u"
+
+#. Plugin Name of the plugin/theme
+msgid "Social Sharing"
+msgstr "Udostępnianie społecznościowe"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/socials/"
+msgstr "http://wordpress.org/plugins/socials/"
+
+#. Description of the plugin/theme
+msgid "Share posts on your social media... It's easy!"
+msgstr "Udostępniaj wpisy na Twoich mediach społecznościowych... To proste!"
+
+#. Author of the plugin/theme
+msgid "RapidDev | Polish technology company"
+msgstr "RapidDev | Polska firma technologiczna"
+
+#. Author URI of the plugin/theme
+msgid "https://rapiddev.pl/"
+msgstr "https://rapiddev.pl/"
+
+#~ msgid "Socials"
+#~ msgstr "Społeczności"
